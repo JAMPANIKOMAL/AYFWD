@@ -1,0 +1,8 @@
+{
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "newLine",
+    "prettier.bracketSameLine": true,
+    "prettier.tabWidth": 4,
+    "prettier.arrowParens": "always",
+    "prettier.useTabs": true,
+    "prettier.trailingComma": "all" ,
+}

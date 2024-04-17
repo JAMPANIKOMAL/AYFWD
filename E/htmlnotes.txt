@@ -1,0 +1,12 @@
+2.1 to 4.3
+<! > --> Comment
+<h> </h> --> Header.
+<p> </p> --> Paragraph.
+<br /> --> Jump to Next Line.
+<hr /> --> Line.
+<ul> <li> </li> </ul> --> Unoredered List Items. [Uses Dots]
+<ol> <li> </li> </ol> --> Oredered List Items. [Uses Numbers]
+<a href="https://google.com"> Google </a>  --> Anchor Elements. [Hyperlink]
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" alt="Image of a cat"/>  --> Image Elements.
+
+
