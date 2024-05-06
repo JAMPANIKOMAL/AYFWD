@@ -1,0 +1,16 @@
+<li class="note" id="id-selector-demo" value="3">ID selectors target elements based on the value of the id attribute.</li>
+
+.note 
+{
+    font-size: 20px;
+}
+
+#id-selector-demo 
+{
+    color: green;
+}
+
+li[value="4"] 
+{
+    color: blue;
+}
